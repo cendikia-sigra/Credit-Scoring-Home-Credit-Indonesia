@@ -26,9 +26,6 @@ Nasabah dengan tingkat pendidikan terakhir secondary/secondary special lebih ber
 <img width="500" alt="Image" src="https://github.com/user-attachments/assets/5bbf31f9-94c9-4a92-bffe-71d5fce4dcdd" /> \
 Terlihat bahwa dataset imbalance karena dataset berisi lebih banyak nasabah yang tidak berisiko gagal bayar (Target = 0) dibandingkan dengan nasabah yang berisiko gagal bayar (Target =1). Kedepannya akan dilakukan penanganan lebih lanjut terkait hal tersebut.
 
-<img width="500" alt="Image" src="https://github.com/user-attachments/assets/34a8d5b7-e503-4f5c-8f4e-d96f3936f4d4" /> \
-Heatmap di atas menjelaskan bahwa adanya korelasi antar fitur yang kedepannya dapat digunakan untuk memprediksi nasabah yang gagal bayar.
-
 ## Machine Learning Implementation
 Ada 3 Model Machine Learning yang digunakan untuk memprediksi nasabah gagal bayar
 1. Logistic Regression
