@@ -1,4 +1,4 @@
-# Prediksi Risiko Kredit ( Project Base Intership: Homecredit Indonesia x Rakamin Academy)
+# Prediksi Risiko Kredit (Project Base Intership: Home Credit Indonesia x Rakamin Academy)
 
 ## Latar Belakang
 **CLIENT BACKGROUD** \
